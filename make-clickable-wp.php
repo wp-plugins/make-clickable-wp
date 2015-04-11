@@ -3,7 +3,7 @@
 	 * Plugin Name: Make Clickable WordPress
 	 * Plugin URI: https://github.com/wpbrasil/Make-Clickable-WordPress
 	 * Description: Convert plain text URI to HTML links. Converts URI, www, FTP, and email addresses.
-	 * Author: leobaiano, valeriosza, rafaehlers, gugaalves, rafaelfunchal, miriamdepaula, dianakc, claudiosanches, bordoni, jimmymacedo, fdaciuk
+	 * Author: leobaiano, valeriosza, gugaalves, rafaelfunchal, dianakc, claudiosanches, jimmymacedo, fdaciuk
 	 * Author URI: http://guwp.org/
 	 * Version: 1.0.0
 	 * License: GPLv2 or later
